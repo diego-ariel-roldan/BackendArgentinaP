@@ -1,5 +1,9 @@
 HELP.md
+<<<<<<< HEAD
 ##target/
+=======
+
+>>>>>>> 3ac2cd4 (Archivo Dockerfile)
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
