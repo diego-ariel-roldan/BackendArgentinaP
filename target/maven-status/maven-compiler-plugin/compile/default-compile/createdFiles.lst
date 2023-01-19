@@ -1,0 +1,10 @@
+com\portafolio\diego2\Security\Service\UsuarioService.class
+com\portafolio\diego2\Security\jwt\JwtProvider.class
+com\portafolio\diego2\Security\MainSecurity.class
+com\portafolio\diego2\Controller\CHys.class
+com\portafolio\diego2\Security\jwt\JwtEntryPoint.class
+com\portafolio\diego2\Controller\CEducacion.class
+com\portafolio\diego2\Security\Service\RolService.class
+com\portafolio\diego2\Security\jwt\JwtTokenFilter.class
+com\portafolio\diego2\Security\Repository\iUsuarioRepository.class
+com\portafolio\diego2\Security\Repository\iRolRepository.class
