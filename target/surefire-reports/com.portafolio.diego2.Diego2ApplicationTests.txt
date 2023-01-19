@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portafolio.diego2.Diego2ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 86.326 s - in com.portafolio.diego2.Diego2ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 84.217 s - in com.portafolio.diego2.Diego2ApplicationTests
